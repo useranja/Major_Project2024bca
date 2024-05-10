@@ -16,10 +16,7 @@ export const templateImagesPaths =[
         name:'Template 4',
         imageSource:require('./images/temp4.jpg'),
     },
-    {
-        name:'Template 5',
-        imageSource:require('./images/temp5.png'),
-    }
+  
 ]
 
 export const stateNames =['Andhra Pradesh',"Andaman and Nicobar Islands","Arunachal Pradesh","Assam","Bihar","Chandigarh"
